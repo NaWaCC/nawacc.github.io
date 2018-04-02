@@ -6,9 +6,10 @@ The aim of the project is to understand and quantify the impact of immigration o
 
 ### Summary
 
-France and Germany are two major countries of immigration in Europe. In 2010, foreign-born individuals represented 7.2% and 6.3% of their respective population (Brücker et al., 2013). Although the economic situation in France and Germany differs a lot in the aftermath of the 2008 crisis (including different dynamics regarding inequality and unemployment) the recent increase in asylum demands and illegal immigration has raised a vivid debate on the strictness of immigration policies in both countries. The economic consequences of immigration, especially for native workers, are at the centre of this debate. In three scientific work-packages (WPs), this project will investigate the impact of immigrant workers on natives’ jobs and wages. We will go beyond the existing literature by investigating why the impact of immigrants varies across countries. 
+France and Germany are two major countries of immigration in Europe. In 2010, foreign-born individuals represented 7.2% and 6.3% of their respective population. Although the economic situation in France and Germany differs a lot in the aftermath of the 2008 crisis (including different dynamics regarding inequality and unemployment) the recent increase in asylum demands and illegal immigration has raised a vivid debate on the strictness of immigration policies in both countries. The economic consequences of immigration, especially for native workers, are at the centre of this debate. 
 
-The project is devided in three workpackages
+In three scientific work-packages, this project will investigate the impact of immigrant workers on natives’ jobs and wages. We will go beyond the existing literature by investigating why the impact of immigrants varies across countries. 
+
 1. **Labour market effects of immigrants, task allocation and production strategies**
 Aim: Explore the mechanism underlying the labour market effects of immigrants by focusing on task allocation and production strategies within and across firms.
 
@@ -40,10 +41,11 @@ Aim: Investigate what determines immigration policies toward different types of 
 * Pr. Dr. Gerald Willmann (Bielefeld University & Kiel Institute for the World Economy)
 
 ## Budget
-ANR: 161,768€
-DFG: 282,610€
+* ANR: 161,768€
+* DFG: 282,610€
 
 ## Contact
 For any question concerning the NaWaCC projet, please contact Léa Marchal at lea[.]marchal[at]ifw[-]kiel[.]de
+
 
 
