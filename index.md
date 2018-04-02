@@ -2,7 +2,7 @@
 
 NaWaCC project -- How Immigration Impacts **Na**tives' **Wa**ges: Investigating **C**ross-**C**ountry Differences -- is a three-year project funded by the French and the German research agencies (the [ANR](http://www.agence-nationale-recherche.fr/en/) and the [DFG](http://www.dfg.de/en/index.jsp)). The project will start on May 1, 2018. 
 
-The aim of the project is to understand and quantify the impact of immigration on natives' wages in a context of globalisation.
+The aim of the project is to **understand and quantify the impact of immigration on natives' wages in a context of globalisation**.
 
 ### Summary
 
@@ -48,4 +48,6 @@ Aim: Investigate what determines immigration policies toward different types of 
 For any question concerning the NaWaCC projet, please contact Léa Marchal at lea[.]marchal[at]ifw[-]kiel[.]de
 
 
+
+![logo ANR](https://nawacc.github.com/logo_ANR.png)
 
