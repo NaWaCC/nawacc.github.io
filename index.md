@@ -5,7 +5,7 @@ May 2018 - Apil 2121
 
 ## **The NaWaCC project**
 
-NaWaCC project -- How Immigration Impacts **Na**tives' **Wa**ges: Investigating **C**ross-**C**ountry Differences -- is a three-year project funded by the French and the German research agencies (the [ANR](http://www.agence-nationale-recherche.fr/en/) and the [DFG](http://www.dfg.de/en/index.jsp)). The budget amounts to 444,000€. The project will start on in May 2018 and end in April 2021. 
+NaWaCC project -- **how immigration impacts NAtives' WAges: investigating Cross-Country differences** -- is a three-year project funded by the French and the German research agencies (the [ANR](http://www.agence-nationale-recherche.fr/en/) and the [DFG](http://www.dfg.de/en/index.jsp)). The budget amounts to 444,000€. The project will start on in May 2018 and end in April 2021. 
 
 
 ### Summary
@@ -45,6 +45,8 @@ In three scientific work-packages, this project will investigate the impact of i
 ### On the German side 
 **Main partner organisation**: [Department of Economics at Bielefeld University](http://www.uni-bielefeld.de/(en)/wiwi/)
 
+
+**Participants**: 
 * Pr. Dr. Giovanni Facchini (University of Nottingham) [:globe_with_meridians:](http://giovannifacchini.wixsite.com/scientist-site)
 * Dr. Olivier Godart (Kiel Institute for the World Economy) [:globe_with_meridians:](https://www.ifw-members.ifw-kiel.de/~olivier_godart_ifw_kiel_de)
 * Dr. Léa Marchal (Bielefeld University & Kiel Institute for the World Economy) [:globe_with_meridians:](http://leamarchal.fr)
@@ -58,6 +60,6 @@ For any question concerning the NaWaCC projet, please contact Léa Marchal at le
 
 
 
-![ANR logo](/img/logo_ANR.png | width=100)
+![ANR logo](/img/logo_ANR.png)
 ![DFG logo](/img/logo_DFG.jpg)
 
