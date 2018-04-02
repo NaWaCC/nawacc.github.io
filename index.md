@@ -3,7 +3,7 @@ NaWaCC Project
 Understand and quantify the impact of immigration on natives' wages in a context of globalisation
 May 2018 - Apil 2121
 
-## The NaWaCC project
+## **The NaWaCC project**
 
 NaWaCC project -- How Immigration Impacts **Na**tives' **Wa**ges: Investigating **C**ross-**C**ountry Differences -- is a three-year project funded by the French and the German research agencies (the [ANR](http://www.agence-nationale-recherche.fr/en/) and the [DFG](http://www.dfg.de/en/index.jsp)). The budget amounts to 444,000€. The project will start on in May 2018 and end in April 2021. 
 
@@ -32,9 +32,9 @@ We will investigate what determines immigration policies toward different types 
 
 * Our kick-start meeting will take place at Lille University on June 28, 2018. 
 
-- - - -
 
-## Project partnership
+
+## **Project partnership**
 
 #### On the French side 
 **Main partner organisation**: [Lille University](http://www.univ-lille1.fr/home/) & [LEM-CNRS](http://lem.cnrs.fr)
@@ -54,12 +54,12 @@ We will investigate what determines immigration policies toward different types 
 * Dr. Max Steinhardt (Helmut Schmidt University) [:globe_with_meridians:](https://sites.google.com/site/maxfriedrichsteinhardt/)
 * Pr. Dr. Gerald Willmann (Bielefeld University & Kiel Institute for the World Economy) [:globe_with_meridians:](http://willmann.com/~gerald/)
 
-- - - -
 
-## Contact
+
+## **Contact**
 For any question concerning the NaWaCC projet, please contact Léa Marchal at lea[.]marchal[at]ifw[-]kiel[.]de
 
-- - - -
+
 
 ![ANR logo](/img/logo_ANR.png)
 ![DFG logo](/img/logo_DFG.jpg)
