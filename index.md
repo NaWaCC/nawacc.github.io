@@ -33,7 +33,7 @@ In three scientific work-packages, this project will investigate the impact of i
 
 **Participants**: 
 * [Pr. Dr. Jérôme Héricourt](https://sites.google.com/site/jpcdhericourt/) -- Lille University & LEM-CNRS
-* [Dr.Clément Nedoncelle](http://www.clementnedoncelle.eu/) -- AgroParisTech-INRA
+* [Dr. Clément Nedoncelle](http://www.clementnedoncelle.eu/) -- AgroParisTech-INRA
 * [Dr. Gianluca Orefice](https://sites.google.com/site/oreficegianluca/home) -- Centre d'Etudes Prospectives et d'Informations Internationales
 * [Pr. Dr. Giovanni Peri](http://giovanniperi.ucdavis.edu/) -- University of California & NBER
 
