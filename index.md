@@ -45,7 +45,6 @@ In three scientific work-packages, this project will investigate the impact of i
 ### On the German side 
 **Main partner organisation**: [Department of Economics at Bielefeld University](http://www.uni-bielefeld.de/(en)/wiwi/)
 
-:globe_with_meridians:
 
 **Participants**: 
 * Pr. Dr. Giovanni Facchini (University of Nottingham) [:globe_with_meridians:](http://giovannifacchini.wixsite.com/scientist-site)
