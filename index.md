@@ -37,7 +37,7 @@ In three scientific work-packages, this project will investigate the impact of i
 **Main partner organisation**: [Lille University](http://www.univ-lille1.fr/home/) & [LEM-CNRS](http://lem.cnrs.fr)
 
 **Participants**: 
-* Pr. Dr. Jérôme Héricourt (Lille University & LEM-CNRS) [:globe_with_meridians:](https://sites.google.com/site/jpcdhericourt/)
+* Pr. Dr. Jérôme Héricourt (Lille University & LEM-CNRS) [:smile:](https://sites.google.com/site/jpcdhericourt/)
 * Dr.Clément Nedoncelle (AgroParisTech-INRA) [:globe_with_meridians:](http://www.clementnedoncelle.eu/) 
 * Dr. Gianluca Orefice (Centre d'Etudes Prospectives et d'Informations Internationales) [:globe_with_meridians:](https://sites.google.com/site/oreficegianluca/home)
 * Pr. Dr. Giovanni Peri (University of California & NBER) [:globe_with_meridians:](http://giovanniperi.ucdavis.edu/)
@@ -58,7 +58,7 @@ In three scientific work-packages, this project will investigate the impact of i
 ## **Contact**
 For any question concerning the NaWaCC projet, please contact Léa Marchal at lea[.]marchal[at]ifw[-]kiel[.]de
 
-
+ 
 
 ![ANR logo](/img/logo_ANR.png)
 ![DFG logo](/img/logo_DFG.jpg)
