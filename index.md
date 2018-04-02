@@ -16,17 +16,17 @@ In three scientific work-packages, this project will investigate the impact of i
 
 **1. Labour market effects of immigrants, task allocation and production strategies**  
 
-*Aim*: Explore the mechanism underlying the labour market effects of immigrants by focusing on task allocation and production strategies within and across firms.
+We will explore the mechanism underlying the labour market effects of immigrants by focusing on task allocation and production strategies within and across firms.
 
 
 **2. Trade integration, immigration and wages: micro mechanisms and aggregate implications** 
 
-*Aim*: Investigate to what extent the impact of immigrants on natives’ wages is conditioned by trade integration. Devote a special attention to aggregate consequences of firm-level dynamics.
+We will investigate to what extent the impact of immigrants on natives’ wages is conditioned by trade integration. We will devote a special attention to aggregate consequences of firm-level dynamics.
 
 
 **3. Political determinants of immigration policy toward different groups of immigrants in the European Union**  
 
-*Aim*: Investigate what determines immigration policies toward different types of immigrants across European countries. Analyse the interplays between immigration policies and labour market outcomes.
+We will investigate what determines immigration policies toward different types of immigrants across European countries. We will analyse the interplays between immigration policies and labour market outcomes.
 
 ### Upcomming events
 
