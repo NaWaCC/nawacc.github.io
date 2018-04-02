@@ -14,7 +14,7 @@ France and Germany are two major countries of immigration in Europe. In 2010, fo
 
 In three scientific work-packages, this project will investigate the impact of immigrant workers on natives’ jobs and wages. We will go beyond the existing literature by investigating why the impact of immigrants varies across countries. 
 
-* *Work-package 1. **Labour market effects of immigrants, task allocation and production strategies***
+* ***Work-package 1.** Labour market effects of immigrants, task allocation and production strategies*
 <br/> We will explore the mechanism underlying the labour market effects of immigrants by focusing on task allocation and production strategies within and across firms.
 
 
