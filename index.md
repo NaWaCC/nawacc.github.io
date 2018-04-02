@@ -21,7 +21,7 @@ In three scientific work-packages, this project will investigate the impact of i
 <br/> We will investigate what determines immigration policies toward different types of immigrants across European countries. We will analyse the interplays between immigration policies and labour market outcomes.
 
 
-### *pcomming events
+### Upcomming events
 
 * **June 28, 2018**: Kick-start meeting at Lille University
 
