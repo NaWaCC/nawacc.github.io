@@ -48,6 +48,7 @@ Aim: Investigate what determines immigration policies toward different types of 
 For any question concerning the NaWaCC projet, please contact Léa Marchal at lea[.]marchal[at]ifw[-]kiel[.]de
 
 
+![ANR logo](/img/logo_ANR.png)
+![DFG logo](/img/logo_DFG.jpg)
 
-![logo ANR](https://nawacc.github.com/logo_ANR.png)
 
