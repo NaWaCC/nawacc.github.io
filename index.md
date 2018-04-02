@@ -11,13 +11,13 @@ France and Germany are two major countries of immigration in Europe. In 2010, fo
 In three scientific work-packages, this project will investigate the impact of immigrant workers on natives’ jobs and wages. We will go beyond the existing literature by investigating why the impact of immigrants varies across countries. 
 
 **1. Labour market effects of immigrants, task allocation and production strategies**   :fr:  :de:
-Aim: Explore the mechanism underlying the labour market effects of immigrants by focusing on task allocation and production strategies within and across firms.
+*Aim*: Explore the mechanism underlying the labour market effects of immigrants by focusing on task allocation and production strategies within and across firms.
 
 **2. Trade integration, immigration and wages: micro mechanisms and aggregate implications** :fr:  :de:
-Aim: Investigate to what extent the impact of immigrants on natives’ wages is conditioned by trade integration. Devote a special attention to aggregate consequences of firm-level dynamics.
+*Aim*: Investigate to what extent the impact of immigrants on natives’ wages is conditioned by trade integration. Devote a special attention to aggregate consequences of firm-level dynamics.
 
 **3. Political determinants of immigration policy toward different groups of immigrants in the European Union**  :de:
-Aim: Investigate what determines immigration policies toward different types of immigrants across European countries. Analyse the interplays between immigration policies and labour market outcomes.
+*Aim*: Investigate what determines immigration policies toward different types of immigrants across European countries. Analyse the interplays between immigration policies and labour market outcomes.
 
 
 ## Project partnership
@@ -26,19 +26,19 @@ Aim: Investigate what determines immigration policies toward different types of 
 **Main partner organisation**: [Lille University](http://www.univ-lille1.fr/home/) & [LEM-CNRS](http://lem.cnrs.fr)
 
 **Participants**: 
-* Pr. Dr. Jérôme Héricourt (Lille University & LEM-CNRS)
-* Dr.Clément Nedoncelle (AgroParisTech-INRA)
-* Dr. Gianluca Orefice (Centre d'Etudes Prospectives et d'Informations Internationales)
-* Pr. Dr. Giovanni Peri (University of California & NBER)
+* Pr. Dr. Jérôme Héricourt (Lille University & LEM-CNRS) [:globe_with_meridians:](https://sites.google.com/site/jpcdhericourt/)
+* Dr.Clément Nedoncelle (AgroParisTech-INRA) [:globe_with_meridians:](http://www.clementnedoncelle.eu/) 
+* Dr. Gianluca Orefice (Centre d'Etudes Prospectives et d'Informations Internationales) [:globe_with_meridians:](https://sites.google.com/site/oreficegianluca/home)
+* Pr. Dr. Giovanni Peri (University of California & NBER) [:globe_with_meridians:](http://giovanniperi.ucdavis.edu/)
 
 ### On the German side :de:
 **Main partner organisation**: [Department of Economics at Bielefeld University](http://www.uni-bielefeld.de/(en)/wiwi/)
 
-* Pr. Dr. Giovanni Facchini (University of Nottingham) 
-* Dr. Olivier Godart (Kiel Institute for the World Economy)
+* Pr. Dr. Giovanni Facchini (University of Nottingham) [:globe_with_meridians:](http://giovannifacchini.wixsite.com/scientist-site)
+* Dr. Olivier Godart (Kiel Institute for the World Economy) [:globe_with_meridians:](https://www.ifw-members.ifw-kiel.de/~olivier_godart_ifw_kiel_de)
 * Dr. Léa Marchal (Bielefeld University & Kiel Institute for the World Economy) [:globe_with_meridians:](http://leamarchal.fr)
-* Dr. Max Steinhardt (Institut für Politische Ökonomik & Empirische Wirtschaftsforschung at Helmut Schmidt University)
-* Pr. Dr. Gerald Willmann (Bielefeld University & Kiel Institute for the World Economy)
+* Dr. Max Steinhardt (Institut für Politische Ökonomik & Empirische Wirtschaftsforschung at Helmut Schmidt University) [:globe_with_meridians:](https://sites.google.com/site/maxfriedrichsteinhardt/)
+* Pr. Dr. Gerald Willmann (Bielefeld University & Kiel Institute for the World Economy) [:globe_with_meridians:](http://willmann.com/~gerald/)
 
 ## Budget
 * ANR: 161,768€
