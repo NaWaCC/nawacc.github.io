@@ -4,6 +4,7 @@
 @import "{{ site.theme }}";
 
 .page-header{
-    background-color: white;
-    background-image: none;
+    background-color: white !important;
+    background-image: none !important;
+    color: black;
 }
