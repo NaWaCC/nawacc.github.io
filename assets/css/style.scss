@@ -3,15 +3,23 @@
 
 @import "{{ site.theme }}";
 
-.page-header{
+.page-header {
     background-color: #c0c0c050;
     background-image: none !important;
     color: black;
 }
-.logo{
+.logo {
     width: 110px;
 }
-.logo-margin{
+.logo-margin {
     width: 110px;
     margin-left: 20px;
+}
+
+.main-content h3 {
+    color:black;
+}
+
+.main-content h2 {
+    color:black;
 }
