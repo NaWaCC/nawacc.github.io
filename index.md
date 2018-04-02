@@ -1,8 +1,3 @@
-pour le titre
-NaWaCC Project
-Understand and quantify the impact of immigration on natives' wages in a globalized world
-May 2018 - April 2121
-
 ## **The NaWaCC project**
 
 NaWaCC project -- **How immigration impacts NAtives' WAges: investigating Cross-Country differences** -- is a three-year project funded by the French and the German research agencies (the [ANR](http://www.agence-nationale-recherche.fr/en/) and the [DFG](http://www.dfg.de/en/index.jsp)). The budget amounts to 385,978€. The project will start in May 2018 and end in April 2021. 
@@ -37,7 +32,7 @@ In three scientific work-packages, this project will investigate the impact of i
 **Main partner organisation**: [Lille University](http://www.univ-lille1.fr/home/) & [LEM-CNRS](http://lem.cnrs.fr)
 
 **Participants**: 
-* Pr. Dr. Jérôme Héricourt (Lille University & LEM-CNRS) [:globe_with_meridians:](https://sites.google.com/site/jpcdhericourt/)
+* [:Pr. Dr. Jérôme Héricourt:](https://sites.google.com/site/jpcdhericourt/) (Lille University & LEM-CNRS) 
 * Dr.Clément Nedoncelle (AgroParisTech-INRA) [:globe_with_meridians:](http://www.clementnedoncelle.eu/) 
 * Dr. Gianluca Orefice (Centre d'Etudes Prospectives et d'Informations Internationales) [:globe_with_meridians:](https://sites.google.com/site/oreficegianluca/home)
 * Pr. Dr. Giovanni Peri (University of California & NBER) [:globe_with_meridians:](http://giovanniperi.ucdavis.edu/)
