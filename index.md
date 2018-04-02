@@ -8,7 +8,7 @@ The aim of the project is to understand and quantify the impact of immigration o
 ## Project partnership
 
 ### On the French side
-**Main partner organisation**: Lille University & LEM-CNRS
+**Main partner organisation**: [Lille University](http://www.univ-lille1.fr/home/) & [LEM-CNRS](http://lem.cnrs.fr)
 
 **Project coordination**: Jérôme Héricourt (Lille University & LEM-CNRS)
 
@@ -18,7 +18,7 @@ The aim of the project is to understand and quantify the impact of immigration o
 * Giovanni Peri (University of California & NBER)
 
 ### On the German side
-**Main partner organisation**: Bielefeld University
+**Main partner organisation**: [Department of Economics of Bielefeld University](http://www.uni-bielefeld.de/(en)/wiwi/)
 
 **Project coordination**: Gerald Willmann (Bielefeld University & Kiel Institute for the World Economy)
 
