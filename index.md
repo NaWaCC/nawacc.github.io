@@ -10,7 +10,7 @@ France and Germany are two major countries of immigration in Europe. In 2010, fo
 
 In three scientific work-packages, this project will investigate the impact of immigrant workers on natives’ jobs and wages. We will go beyond the existing literature by investigating why the impact of immigrants varies across countries. 
 
-1. **Labour market effects of immigrants, task allocation and production strategies**
+1. **Labour market effects of immigrants, task allocation and production strategies**  :fr:  :de:
 Aim: Explore the mechanism underlying the labour market effects of immigrants by focusing on task allocation and production strategies within and across firms.
 
 2. **Trade integration, immigration and wages: micro mechanisms and aggregate implications**
@@ -36,7 +36,7 @@ Aim: Investigate what determines immigration policies toward different types of 
 
 * Pr. Dr. Giovanni Facchini (University of Nottingham)
 * Dr. Olivier Godart (Kiel Institute for the World Economy)
-* Dr. Léa Marchal (Bielefeld University & Kiel Institute for the World Economy)
+* Dr. Léa Marchal (Bielefeld University & Kiel Institute for the World Economy) [:globe_with_meridians:](http://leamarchal.fr)
 * Dr. Max Steinhardt (Institut für Politische Ökonomik & Empirische Wirtschaftsforschung at Helmut Schmidt University)
 * Pr. Dr. Gerald Willmann (Bielefeld University & Kiel Institute for the World Economy)
 
