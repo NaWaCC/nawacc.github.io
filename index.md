@@ -32,21 +32,21 @@ In three scientific work-packages, this project will investigate the impact of i
 **Main partner organisation**: [Lille University](http://www.univ-lille1.fr/home/) & [LEM-CNRS](http://lem.cnrs.fr)
 
 **Participants**: 
-* [:Pr. Dr. Jérôme Héricourt:](https://sites.google.com/site/jpcdhericourt/) (Lille University & LEM-CNRS) 
-* Dr.Clément Nedoncelle (AgroParisTech-INRA) [:globe_with_meridians:](http://www.clementnedoncelle.eu/) 
-* Dr. Gianluca Orefice (Centre d'Etudes Prospectives et d'Informations Internationales) [:globe_with_meridians:](https://sites.google.com/site/oreficegianluca/home)
-* Pr. Dr. Giovanni Peri (University of California & NBER) [:globe_with_meridians:](http://giovanniperi.ucdavis.edu/)
+* [Pr. Dr. Jérôme Héricourt](https://sites.google.com/site/jpcdhericourt/) (Lille University & LEM-CNRS) 
+* [Dr.Clément Nedoncelle](http://www.clementnedoncelle.eu/)  (AgroParisTech-INRA) 
+* [Dr. Gianluca Orefice](https://sites.google.com/site/oreficegianluca/home) (Centre d'Etudes Prospectives et d'Informations Internationales)
+* [Pr. Dr. Giovanni Peri](http://giovanniperi.ucdavis.edu/) (University of California & NBER)
 
 ### On the German side 
 **Main partner organisation**: [Department of Economics at Bielefeld University](http://www.uni-bielefeld.de/(en)/wiwi/)
 
 
 **Participants**: 
-* Pr. Dr. Giovanni Facchini (University of Nottingham) [:globe_with_meridians:](http://giovannifacchini.wixsite.com/scientist-site)
-* Dr. Olivier Godart (Kiel Institute for the World Economy) [:globe_with_meridians:](https://www.ifw-members.ifw-kiel.de/~olivier_godart_ifw_kiel_de)
-* Dr. Léa Marchal (Bielefeld University & Kiel Institute for the World Economy) [:globe_with_meridians:](http://leamarchal.fr)
-* Dr. Max Steinhardt (Helmut Schmidt University) [:globe_with_meridians:](https://sites.google.com/site/maxfriedrichsteinhardt/)
-* Pr. Dr. Gerald Willmann (Bielefeld University & Kiel Institute for the World Economy) [:globe_with_meridians:](http://willmann.com/~gerald/)
+* [Pr. Dr. Giovanni Facchini (University of Nottingham) [:globe_with_meridians:](http://giovannifacchini.wixsite.com/scientist-site)
+* [Dr. Olivier Godart](https://www.ifw-members.ifw-kiel.de/~olivier_godart_ifw_kiel_de) (Kiel Institute for the World Economy)
+* [Dr. Léa Marchal](http://leamarchal.fr) (Bielefeld University & Kiel Institute for the World Economy)
+* [Dr. Max Steinhardt](https://sites.google.com/site/maxfriedrichsteinhardt/) (Helmut Schmidt University)
+* [Pr. Dr. Gerald Willmann](http://willmann.com/~gerald/) (Bielefeld University & Kiel Institute for the World Economy)
 
 
 
