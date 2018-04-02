@@ -3,7 +3,7 @@
 NaWaCC project -- **How immigration impacts NAtives' WAges: investigating Cross-Country differences** -- is a three-year project funded by the French and the German research agencies (the [ANR](http://www.agence-nationale-recherche.fr/en/) and the [DFG](http://www.dfg.de/en/index.jsp)). The budget amounts to 385,978€. The project will start in May 2018 and end in April 2021. 
 
 
-### Summary
+## Summary
 
 France and Germany are two major countries of immigration in Europe. In 2010, foreign-born individuals represented 7.2% and 6.3% of their respective population. Although the economic situation in France and Germany differs a lot in the aftermath of the 2008 crisis (including different dynamics regarding inequality and unemployment) the recent increase in asylum demands and illegal immigration has raised a vivid debate on the strictness of immigration policies in both countries. The economic consequences of immigration, especially for native workers, are at the centre of this debate. 
 
