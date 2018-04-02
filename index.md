@@ -20,9 +20,10 @@ In three scientific work-packages, this project will investigate the impact of i
 * ***Work-package 3.** Political determinants of immigration policy toward different groups of immigrants in the European Union*
 <br/> We will investigate what determines immigration policies toward different types of immigrants across European countries. We will analyse the interplays between immigration policies and labour market outcomes.
 
+
 ### Upcomming events
 
-* June 28, 2018: Kick-start meeting at Lille University
+* **June 28, 2018**: Kick-start meeting at Lille University
 
 
 
@@ -37,9 +38,9 @@ In three scientific work-packages, this project will investigate the impact of i
 * [Dr. Gianluca Orefice](https://sites.google.com/site/oreficegianluca/home) -- Centre d'Etudes Prospectives et d'Informations Internationales
 * [Pr. Dr. Giovanni Peri](http://giovanniperi.ucdavis.edu/) -- University of California & NBER
 
+
 ### On the German side 
 **Main partner organisation**: [Department of Economics at Bielefeld University](http://www.uni-bielefeld.de/(en)/wiwi/)
-
 
 **Participants**: 
 * [Pr. Dr. Giovanni Facchini](http://giovannifacchini.wixsite.com/scientist-site) -- University of Nottingham
@@ -47,6 +48,7 @@ In three scientific work-packages, this project will investigate the impact of i
 * [Dr. Léa Marchal](http://leamarchal.fr) -- Bielefeld University & Kiel Institute for the World Economy
 * [Dr. Max Steinhardt](https://sites.google.com/site/maxfriedrichsteinhardt/) -- Helmut Schmidt University
 * [Pr. Dr. Gerald Willmann](http://willmann.com/~gerald/) -- Bielefeld University & Kiel Institute for the World Economy
+
 
 
 
