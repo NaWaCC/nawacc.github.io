@@ -26,7 +26,7 @@ In three scientific work-packages, this project will investigate the impact of i
 * **June 28, 2018**: Kick-start meeting at Lille University
 
 
-
+<br/> 
 ## **Project partnership**
 
 ### On the French side 
