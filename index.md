@@ -5,7 +5,7 @@ May 2018 - April 2121
 
 ## **The NaWaCC project**
 
-NaWaCC project -- **How immigration impacts NAtives' WAges: investigating Cross-Country differences** -- is a three-year project funded by the French and the German research agencies (the [ANR](http://www.agence-nationale-recherche.fr/en/) and the [DFG](http://www.dfg.de/en/index.jsp)). The budget amounts to 385,978€. The project will start on in May 2018 and end in April 2021. 
+NaWaCC project -- **How immigration impacts NAtives' WAges: investigating Cross-Country differences** -- is a three-year project funded by the French and the German research agencies (the [ANR](http://www.agence-nationale-recherche.fr/en/) and the [DFG](http://www.dfg.de/en/index.jsp)). The budget amounts to 385,978€. The project will start in May 2018 and end in April 2021. 
 
 
 ### Summary
