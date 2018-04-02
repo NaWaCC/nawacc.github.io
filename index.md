@@ -43,4 +43,7 @@ Aim: Investigate what determines immigration policies toward different types of 
 ANR: 161,768€
 DFG: 282,610€
 
+## Contact
+For any question concerning the NaWaCC projet, please contact Léa Marchal at lea[.]marchal[at]ifw[-]kiel[.]de
+
 
