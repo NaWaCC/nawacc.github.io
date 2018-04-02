@@ -58,6 +58,6 @@ For any question concerning the NaWaCC projet, please contact Léa Marchal at le
 
 
 
-![ANR logo](/img/logo_ANR.png)
+![ANR logo](/img/logo_ANR.png | width=100)
 ![DFG logo](/img/logo_DFG.jpg)
 
