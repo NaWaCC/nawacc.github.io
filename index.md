@@ -10,13 +10,16 @@ France and Germany are two major countries of immigration in Europe. In 2010, fo
 
 In three scientific work-packages, this project will investigate the impact of immigrant workers on natives’ jobs and wages. We will go beyond the existing literature by investigating why the impact of immigrants varies across countries. 
 
-1. **Labour market effects of immigrants, task allocation and production strategies**  :fr:  :de:
+1. **Labour market effects of immigrants, task allocation and production strategies**   :fr:  :de:
+
 Aim: Explore the mechanism underlying the labour market effects of immigrants by focusing on task allocation and production strategies within and across firms.
 
-2. **Trade integration, immigration and wages: micro mechanisms and aggregate implications**
+2. **Trade integration, immigration and wages: micro mechanisms and aggregate implications** :fr:  :de:
+
 Aim: Investigate to what extent the impact of immigrants on natives’ wages is conditioned by trade integration. Devote a special attention to aggregate consequences of firm-level dynamics.
 
-3. **Political determinants of immigration policy toward different groups of immigrants in the European Union**
+3. **Political determinants of immigration policy toward different groups of immigrants in the European Union**  :de:
+
 Aim: Investigate what determines immigration policies toward different types of immigrants across European countries. Analyse the interplays between immigration policies and labour market outcomes.
 
 
@@ -34,7 +37,7 @@ Aim: Investigate what determines immigration policies toward different types of 
 ### On the German side
 **Main partner organisation**: [Department of Economics at Bielefeld University](http://www.uni-bielefeld.de/(en)/wiwi/)
 
-* Pr. Dr. Giovanni Facchini (University of Nottingham)
+* Pr. Dr. Giovanni Facchini (University of Nottingham) 
 * Dr. Olivier Godart (Kiel Institute for the World Economy)
 * Dr. Léa Marchal (Bielefeld University & Kiel Institute for the World Economy) [:globe_with_meridians:](http://leamarchal.fr)
 * Dr. Max Steinhardt (Institut für Politische Ökonomik & Empirische Wirtschaftsforschung at Helmut Schmidt University)
