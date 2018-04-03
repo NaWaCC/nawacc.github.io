@@ -23,7 +23,7 @@ In three scientific work-packages, this project will investigate the impact of i
 
 ### Upcomming events
 
-* **June 28, 2018**: Kick-start meeting at Lille University
+* **June 28, 2018**: Kick-start meeting at Lille University 
 
 
 
