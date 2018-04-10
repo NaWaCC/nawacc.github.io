@@ -30,7 +30,7 @@ In three scientific work-packages, this project will investigate the impact of i
 
 ## **Project partnership**
 
-### On the French side
+### Research team funded by the ANR
 **Main partner organisation**: [Lille University](http://www.univ-lille1.fr/home/) & [LEM-CNRS](http://lem.cnrs.fr)
 
 **Participants**: 
@@ -40,7 +40,7 @@ In three scientific work-packages, this project will investigate the impact of i
 * [Pr. Dr. Giovanni Peri](http://giovanniperi.ucdavis.edu/) -- University of California, Davis & NBER
 
 
-### On the German side 
+### Research team funded by the DFG 
 **Main partner organisation**: [Department of Economics at Bielefeld University](http://www.uni-bielefeld.de/(en)/wiwi/)
 
 **Participants**: 
