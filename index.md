@@ -33,7 +33,7 @@ In three scientific work-packages, this project will investigate the impact of i
 **Main partner organisation**: [Lille University](http://www.univ-lille1.fr/home/) & [LEM-CNRS](http://lem.cnrs.fr)
 
 **Participants**: 
-* [Pr. Dr. Jérôme Héricourt](https://sites.google.com/site/jpcdhericourt/) -- Lille University & LEM
+* [Pr. Dr. Jérôme Héricourt](https://sites.google.com/site/jpcdhericourt/) -- Lille University & LEM-CNRS
 * [Dr. Clément Nedoncelle](http://www.clementnedoncelle.eu/) -- AgroParisTech-INRA
 * [Dr. Gianluca Orefice](https://sites.google.com/site/oreficegianluca/home) -- CEPII
 * [Pr. Dr. Giovanni Peri](http://giovanniperi.ucdavis.edu/) -- University of California, Davis & NBER
