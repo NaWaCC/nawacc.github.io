@@ -36,7 +36,7 @@ In three scientific work-packages, this project will investigate the impact of i
 * [Pr. Dr. Jérôme Héricourt](https://sites.google.com/site/jpcdhericourt/) -- Lille University & LEM
 * [Dr. Clément Nedoncelle](http://www.clementnedoncelle.eu/) -- AgroParisTech-INRA
 * [Dr. Gianluca Orefice](https://sites.google.com/site/oreficegianluca/home) -- CEPII
-* [Pr. Dr. Giovanni Peri](http://giovanniperi.ucdavis.edu/) -- University of California & NBER
+* [Pr. Dr. Giovanni Peri](http://giovanniperi.ucdavis.edu/) -- University of California, Davis & NBER
 
 
 ### On the German side 
