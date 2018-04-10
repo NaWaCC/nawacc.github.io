@@ -1,6 +1,6 @@
 ## **The NaWaCC project**
 
-NaWaCC project is a three-year project funded by the French and the German research agencies (the [ANR](http://www.agence-nationale-recherche.fr/en/) and the [DFG](http://www.dfg.de/en/index.jsp)). The budget amounts to 385,978€. The project will start in May 2018 and end in April 2021. 
+The NaWaCC project is a three-year project funded by the French and the German research agencies (the [ANR](http://www.agence-nationale-recherche.fr/en/) and the [DFG](http://www.dfg.de/en/index.jsp)). Its budget amounts to 385,978€. The project will start in May 2018 and end in April 2021. 
 
 
 ### Summary
@@ -9,12 +9,13 @@ France and Germany are two major countries of immigration in Europe. In 2010, fo
 
 In three scientific work-packages, this project will investigate the impact of immigrant workers on natives’ jobs and wages. We will go beyond the existing literature by investigating why the impact of immigrants varies across countries. 
 
+
 * ***Work-package 1.** Labour market effects of immigrants, task allocation and production strategies*
 <br/> We will explore the mechanism underlying the labour market effects of immigrants by focusing on task allocation and production strategies within and across firms.
 
 
 * ***Work-package 2.** Trade integration, immigration and wages: micro mechanisms and aggregate implications*
-<br/> We will investigate to what extent the impact of immigrants on natives’ wages is conditioned by trade integration. We will devote a special attention to aggregate consequences of firm-level dynamics.
+<br/> We will investigate to what extent the impact of immigrants on natives’ wages is conditioned by trade integration. We will devote a special attention to the aggregate consequences of firm-level dynamics.
 
 
 * ***Work-package 3.** Political determinants of immigration policy toward different groups of immigrants in the European Union*
@@ -23,7 +24,7 @@ In three scientific work-packages, this project will investigate the impact of i
 
 ### Upcomming events
 
-* **June 28, 2018**: Kick-start meeting at Lille University 
+* **June 28, 2018**: Kick-start meeting at Lille University & LEM-CNRS
 
 
 
