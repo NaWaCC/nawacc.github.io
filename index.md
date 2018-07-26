@@ -24,7 +24,7 @@ In three scientific work-packages, this project will investigate the impact of i
 
 ### Upcoming events
 
-* **September 3-7, 2018**: Jérôme Héricourt visiting the IfW
+* **September 3-7, 2018**: Jérôme Héricourt visiting the IfW. 
 
 ### Past events
 
