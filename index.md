@@ -22,10 +22,13 @@ In three scientific work-packages, this project will investigate the impact of i
 <br/> We will investigate what determines immigration policies toward different types of immigrants across European countries. We will analyse the interplays between immigration policies and labour market outcomes.
 
 
-### Upcomming events
+### Upcoming events
 
-* **June 28, 2018**: Kick-start meeting at Lille University & LEM-CNRS
+* **September 3-7, 2018**: Jérôme Héricourt visiting the IfW
 
+### Past events
+
+* **June 28, 2018**: Kick-start meeting at Lille University & LEM-CNRS. 
 
 
 ## **Project partnership**
