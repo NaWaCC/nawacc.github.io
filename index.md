@@ -28,7 +28,7 @@ In three scientific work-packages, this project will investigate the impact of i
 
 ### Past events
 
-* **June 28, 2018**: Kick-start meeting at Lille University & LEM-CNRS. 
+* **June 28, 2018**: Kick-start meeting at Lille University & LEM-CNRS. <i class="fas fa-file"></i>
 
 
 ## **Project partnership**
