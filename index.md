@@ -24,9 +24,11 @@ In three scientific work-packages, this project will investigate the impact of i
 
 ### Upcoming events
 
-* **September 3-7, 2018**: Jérôme Héricourt & Clément Nedoncelle will be visiting the IfW. 
+* ...  
 
 ### Past events
+
+* **September 3-7, 2018**: Jérôme Héricourt & Clément Nedoncelle visited the IfW. 
 
 * **June 28, 2018**: Kick-start meeting at Lille University & LEM-CNRS. <a href="{{ '/assets/data/programme_kick-start_meeting.pdf' }}" target="_blank"><i class="fas fa-file"></i></a>
 
