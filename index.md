@@ -24,7 +24,7 @@ In three scientific work-packages, this project will investigate the impact of i
 
 ### Upcoming events
 
-* **October 11-12, 2018**: Léa Marchal at the QICSS International Conference 2018 in Montréal.
+* **October 11-12, 2018**: Léa Marchal at the QICSS International Conference 2018 (IMMIGRATION'S IMPACT, IMMIGRANT'S OUTCOMES: NEW RESULTS USING BUSINESS AND SOCIAL DATA) in Montréal. 
 
 ### Past events
 
