@@ -30,7 +30,7 @@ In three scientific work-packages, this project will investigate the impact of i
 
 ### Past events
 
-* **September 21, 2018**: Ding Xuan Ng presented a paper titled "Technological Unemployment and Occupational Mobility" at the Kiel IfW
+* **September 21, 2018**: Ding Xuan Ng from Johns Hopkins University presented a paper titled "Technological Unemployment and Occupational Mobility" at the Kiel IfW
 
 * **September 3-7, 2018**: Jérôme Héricourt & Clément Nedoncelle visited the Kiel IfW. Jérôme Héricourt presented a paper titled "International Transport costs: New Findings from modeling additive costs".
 
