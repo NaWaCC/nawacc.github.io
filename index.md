@@ -26,11 +26,13 @@ In three scientific work-packages, this project will investigate the impact of i
 
 * **October 16-November 31, 2018**: Léa Marchal will visit the French Institute for Demographic Studies (INED)
 
-* **October 11-12, 2018**: Léa Marchal will present at the [QICSS International Conference 2018](https://www.ciqss.org/en/qicss-international-conference-2018) on *Immigration's Impact, Immigrant's outcomes: New Results Using Business and Social Data*. 
+* **October 11-12, 2018**: Léa Marchal will present at the [QICSS International Conference 2018](https://www.ciqss.org/en/qicss-international-conference-2018) on *Immigration's Impact, Immigrant's outcomes: New Results Using Business and Social Data* a paper titled "Immigrants and firm export performance across destinations".  
 
 ### Past events
 
-* **September 3-7, 2018**: Jérôme Héricourt & Clément Nedoncelle visited the Kiel IfW. 
+* **September 21, 2018**: Ding Xuan Ng presented a paper titled "Technological Unemployment and Occupational Mobility" at the Kiel IfW
+
+* **September 3-7, 2018**: Jérôme Héricourt & Clément Nedoncelle visited the Kiel IfW. Jérôme Héricourt presented a paper titled "International Transport costs: New Findings from modeling additive costs".
 
 * **July 8-14, 2018**: Gianluca Orefice visited the University of California, Davis. 
 
