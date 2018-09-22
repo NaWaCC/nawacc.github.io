@@ -24,11 +24,15 @@ In three scientific work-packages, this project will investigate the impact of i
 
 ### Upcoming events
 
-* **October 11-12, 2018**: Léa Marchal presenting at the [QICSS International Conference 2018](https://www.ciqss.org/en/qicss-international-conference-2018) on *Immigration's Impact, Immigrant's outcomes: New Results Using Business and Social Data*. 
+* **October 16-November 31, 2018**: Léa Marchal will visit the French Institute for Demographic Studies (INED)
+
+* **October 11-12, 2018**: Léa Marchal will present at the [QICSS International Conference 2018](https://www.ciqss.org/en/qicss-international-conference-2018) on *Immigration's Impact, Immigrant's outcomes: New Results Using Business and Social Data*. 
 
 ### Past events
 
-* **September 3-7, 2018**: Jérôme Héricourt & Clément Nedoncelle visited the IfW. 
+* **September 3-7, 2018**: Jérôme Héricourt & Clément Nedoncelle visited the Kiel IfW. 
+
+* **July 8-14, 2018**: Gianluca Orefice visited the University of California, Davis. 
 
 * **June 28, 2018**: Kick-start meeting at Lille University & LEM-CNRS. <a href="{{ '/assets/data/programme_kick-start_meeting.pdf' }}" target="_blank"><i class="fas fa-file"></i></a>
 
