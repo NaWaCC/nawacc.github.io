@@ -24,11 +24,14 @@ In three scientific work-packages, this project will investigate the impact of i
 
 ### Upcoming events
 
+* **December 5-11, 2018**: Giulia Sabbadini from the Graduate Institute of International and Development Studies (IHEID) will visit the Kiel IfW. 
+
 * **October 16-November 31, 2018**: Léa Marchal will visit the French Institute for Demographic Studies (INED)
 
-* **October 11-12, 2018**: Léa Marchal will present at the [QICSS International Conference 2018](https://www.ciqss.org/en/qicss-international-conference-2018) on *Immigration's Impact, Immigrant's outcomes: New Results Using Business and Social Data* a paper titled "Immigrants and firm export performance across destinations".  
 
 ### Past events
+
+* **October 11-12, 2018**: Léa Marchal presented at the [QICSS International Conference 2018](https://www.ciqss.org/en/qicss-international-conference-2018) on *Immigration's Impact, Immigrant's outcomes: New Results Using Business and Social Data* a paper titled "Immigrants and firm export performance across destinations".  
 
 * **September 21, 2018**: Ding Xuan Ng from Johns Hopkins University presented a paper titled "Technological Unemployment and Occupational Mobility" at the Kiel IfW
 
