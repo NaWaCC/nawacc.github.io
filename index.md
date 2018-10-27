@@ -24,9 +24,11 @@ In three scientific work-packages, this project will investigate the impact of i
 
 ### Upcoming events
 
+* **December 13-14, 2018**: Miguel Cardoso from Brock University will present a paper titled "Accounting for Foreign-born Employees in a Firm's Decision to Export" at the Kiel-Aarhus workshop. 
+
 * **December 5-11, 2018**: Giulia Sabbadini from the Graduate Institute of International and Development Studies (IHEID) will visit the Kiel IfW. 
 
-* **October 16-November 31, 2018**: Léa Marchal will visit the French Institute for Demographic Studies (INED)
+* **October 16-November 30, 2018**: Léa Marchal will visit the French Institute for Demographic Studies (INED)
 
 
 ### Past events
