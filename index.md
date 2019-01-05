@@ -49,7 +49,7 @@ In three scientific work-packages, this project will investigate the impact of i
 ## **Project partnership**
 
 ### Research team funded by the ANR
-**Main partner organisation**: [Lille University](http://www.univ-lille1.fr/home/) & [LEM-CNRS](http://lem.cnrs.fr)
+**Main partner organisation**: [Lille University](http://www.univ-lille1.fr/home/) & [LEM-CNRS](https://lem.univ-lille.fr/)
 
 **Participants**: 
 * [Pr. Dr. Jérôme Héricourt](https://sites.google.com/site/jpcdhericourt/) -- Lille University & LEM-CNRS
