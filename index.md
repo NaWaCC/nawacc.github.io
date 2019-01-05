@@ -35,7 +35,7 @@ In three scientific work-packages, this project will investigate the impact of i
 
 * **October 16-November 30, 2018**: Léa Marchal visited the French Institute for Demographic Studies (INED) and presented a paper titled "When Immigrants Meet Exporters: Reassessing the Immigrant Wage Gap using French Employer-Employee Data". 
 
-* **October 11-12, 2018**: Léa Marchal presented at the [QICSS International Conference 2018](https://www.ciqss.org/en/qicss-international-conference-2018) on *Immigration's Impact, Immigrant's outcomes: New Results Using Business and Social Data* a paper titled "Immigrants and firm export performance across destinations".  
+* **October 11-12, 2018**: Léa Marchal presented at the QICSS International Conference 2018 on *Immigration's Impact, Immigrant's outcomes: New Results Using Business and Social Data* a paper titled "Immigrants and firm export performance across destinations".  
 
 * **September 21, 2018**: Ding Xuan Ng from Johns Hopkins University presented a paper titled "Technological Unemployment and Occupational Mobility" at the Kiel IfW.
 
