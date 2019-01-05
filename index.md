@@ -22,30 +22,6 @@ In three scientific work-packages, this project will investigate the impact of i
 <br/> We will investigate what determines immigration policies toward different types of immigrants across European countries. We will analyse the interplays between immigration policies and labour market outcomes.
 
 
-### Upcoming events
-
-* **February 22, 2019**: Amandine Aubry will present a paper at the Kiel IfW. 
-
-
-### Past events
-
-* **December 13-14, 2018**: Miguel Cardoso from Brock University presented a paper titled "Accounting for Foreign-born Employees in a Firm's Decision to Export" at the Kiel-Aarhus workshop. Léa Marchal also presented a paper titled "When Immigrants Meet Exporters: Reassessing the Immigrant Wage Gap using French Employer-Employee Data". 
-
-* **December 5-11, 2018**: Giulia Sabbadini from the Graduate Institute of International and Development Studies (IHEID) visited the Kiel IfW. 
-
-* **October 16-November 30, 2018**: Léa Marchal visited the French Institute for Demographic Studies (INED) and presented a paper titled "When Immigrants Meet Exporters: Reassessing the Immigrant Wage Gap using French Employer-Employee Data". 
-
-* **October 11-12, 2018**: Léa Marchal presented at the QICSS International Conference 2018 on *Immigration's Impact, Immigrant's outcomes: New Results Using Business and Social Data* a paper titled "Immigrants and firm export performance across destinations".  
-
-* **September 21, 2018**: Ding Xuan Ng from Johns Hopkins University presented a paper titled "Technological Unemployment and Occupational Mobility" at the Kiel IfW.
-
-* **September 3-7, 2018**: Jérôme Héricourt & Clément Nedoncelle visited the Kiel IfW. Jérôme Héricourt presented a paper titled "International Transport costs: New Findings from modeling additive costs".
-
-* **July 8-14, 2018**: Gianluca Orefice visited the University of California, Davis. 
-
-* **June 28, 2018**: Kick-start meeting at Lille University & LEM-CNRS. <a href="{{ '/assets/data/programme_kick-start_meeting.pdf' }}" target="_blank"><i class="fas fa-file"></i></a>
-
-
 ## **Project partnership**
 
 ### Research team funded by the ANR
@@ -68,6 +44,33 @@ In three scientific work-packages, this project will investigate the impact of i
 * [Dr. Max Steinhardt](https://sites.google.com/site/maxfriedrichsteinhardt/) -- Helmut Schmidt University
 * [Pr. Dr. Gerald Willmann](http://willmann.com/~gerald/) -- Bielefeld University & Kiel IfW
 
+
+
+## **Events**
+
+
+### Upcoming events
+
+* **February 22, 2019**: Amandine Aubry will present a paper at the Kiel IfW. 
+
+
+### Past events
+
+* **December 13-14, 2018**: Miguel Cardoso from Brock University presented a paper titled "Accounting for Foreign-born Employees in a Firm's Decision to Export" at the Kiel-Aarhus workshop. Léa Marchal also presented a paper titled "When Immigrants Meet Exporters: Reassessing the Immigrant Wage Gap using French Employer-Employee Data". 
+
+* **December 5-11, 2018**: Giulia Sabbadini from the Graduate Institute of International and Development Studies (IHEID) visited the Kiel IfW. 
+
+* **October 16-November 30, 2018**: Léa Marchal visited the French Institute for Demographic Studies (INED) and presented a paper titled "When Immigrants Meet Exporters: Reassessing the Immigrant Wage Gap using French Employer-Employee Data". 
+
+* **October 11-12, 2018**: Léa Marchal presented at the QICSS International Conference 2018 on *Immigration's Impact, Immigrant's outcomes: New Results Using Business and Social Data* a paper titled "Immigrants and firm export performance across destinations".  
+
+* **September 21, 2018**: Ding Xuan Ng from Johns Hopkins University presented a paper titled "Technological Unemployment and Occupational Mobility" at the Kiel IfW.
+
+* **September 3-7, 2018**: Jérôme Héricourt & Clément Nedoncelle visited the Kiel IfW. Jérôme Héricourt presented a paper titled "International Transport costs: New Findings from modeling additive costs".
+
+* **July 8-14, 2018**: Gianluca Orefice visited the University of California, Davis. 
+
+* **June 28, 2018**: Kick-start meeting at Lille University & LEM-CNRS. <a href="{{ '/assets/data/programme_kick-start_meeting.pdf' }}" target="_blank"><i class="fas fa-file"></i></a>
 
 
 
