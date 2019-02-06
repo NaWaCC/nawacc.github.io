@@ -51,7 +51,7 @@ In three scientific work-packages, this project will investigate the impact of i
 
 ### Upcoming events
 
-* **February 22, 2019**: Amandine Aubry will present a paper at the Kiel IfW. 
+* Nothing for now. 
 
 
 ### Past events
