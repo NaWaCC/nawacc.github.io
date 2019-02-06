@@ -51,7 +51,7 @@ In three scientific work-packages, this project will investigate the impact of i
 
 ### Upcoming events
 
-* Nothing for now. 
+* None for now. 
 
 
 ### Past events
