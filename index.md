@@ -28,6 +28,7 @@ In three scientific work-packages, this project will investigate the impact of i
 **Main partner organisation**: [Lille University](http://www.univ-lille1.fr/home/) & [LEM-CNRS](https://lem.univ-lille.fr/)
 
 **Participants**: 
+* Dr. Amandine Aubry -- Lille University & LEM-CNRS
 * [Pr. Dr. Jérôme Héricourt](https://sites.google.com/site/jpcdhericourt/) -- Lille University & LEM-CNRS
 * [Dr. Clément Nedoncelle](http://www.clementnedoncelle.eu/) -- AgroParisTech-INRA
 * [Dr. Gianluca Orefice](https://sites.google.com/site/oreficegianluca/home) -- CEPII
@@ -51,10 +52,14 @@ In three scientific work-packages, this project will investigate the impact of i
 
 ### Upcoming events
 
-* None for now. 
+* **July 2019**: Jérôme Héricourt will visit the Kiel Institute. 
+
+* **May 2019**: Léa Marchal will visit Lille University & LEM-CNRS. 
 
 
 ### Past events
+
+* **March 1, 2019**: Amandine Aubry joined the project as a post-doctoral research fellow at Lille University & LEM-CNRS. 
 
 * **December 13-14, 2018**: Miguel Cardoso from Brock University presented a paper titled "Accounting for Foreign-born Employees in a Firm's Decision to Export" at the Kiel-Aarhus workshop. Léa Marchal also presented a paper titled "When Immigrants Meet Exporters: Reassessing the Immigrant Wage Gap using French Employer-Employee Data". 
 
