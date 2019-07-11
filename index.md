@@ -52,12 +52,14 @@ In three scientific work-packages, this project will investigate the impact of i
 
 ### Upcoming events
 
-* **July 2019**: Jérôme Héricourt will visit the Kiel Institute. 
-
-* **May 2019**: Léa Marchal will visit Lille University & LEM-CNRS. 
+* **September, 2019**: Giulia Sabbadini will present a paper co-authored with Léa Marchal and titled "Import competition, firms' growth and immigrant workers" at the ETSG Bern. 
 
 
 ### Past events
+
+* **July 1-12, 2019**: Amandine Aubry, Jérôme Héricourt and Clément Nedoncelle visited the Kiel Institute. 
+
+* **May 21-23, 2019**: Léa Marchal visited Lille University & LEM-CNRS. 
 
 * **March 1, 2019**: Amandine Aubry joined the project as a post-doctoral research fellow at Lille University & LEM-CNRS. 
 
