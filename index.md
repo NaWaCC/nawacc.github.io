@@ -56,11 +56,9 @@ In three scientific work-packages, this project will investigate the impact of i
 
 ### Past events
 
-* **July 1-12, 2019**: Amandine Aubry, Jérôme Héricourt and Clément Nedoncelle visited the Kiel Institute. 
+* **July 1-12, 2019**: Jérôme Héricourt and Clément Nedoncelle visited the Kiel Institute. 
 
 * **May 21-23, 2019**: Léa Marchal visited Lille University & LEM-CNRS. 
-
-* **March 1, 2019**: Amandine Aubry joined the project as a post-doctoral research fellow at Lille University & LEM-CNRS. 
 
 * **December 13-14, 2018**: Miguel Cardoso from Brock University presented a paper titled "Accounting for Foreign-born Employees in a Firm's Decision to Export" at the Kiel-Aarhus workshop. Léa Marchal also presented a paper titled "When Immigrants Meet Exporters: Reassessing the Immigrant Wage Gap using French Employer-Employee Data". 
 
