@@ -81,6 +81,6 @@ In three scientific work-packages, this project will investigate the impact of i
 
 
 ## **Contact**
-For any question concerning the NaWaCC project, please contact Léa Marchal: lea[.]marchal[at]ifw[-]kiel[.]de
+For any question concerning the NaWaCC project, please contact Léa Marchal: lea[.]marchal[at]uni[-]bielefeld[.]de
 
 
