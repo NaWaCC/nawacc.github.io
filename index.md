@@ -51,10 +51,12 @@ In three scientific work-packages, this project will investigate the impact of i
 
 ### Upcoming events
 
-* **September, 2019**: Giulia Sabbadini will present a paper co-authored with Léa Marchal and titled "Import competition, firms' growth and immigrant workers" at the ETSG Bern. 
+* none for now !
 
 
 ### Past events
+
+* **September, 2019**: Giulia Sabbadini presented a paper co-authored with Léa Marchal and titled "Import competition, firms' growth and immigrant workers" at the ETSG 2019 in Bern. 
 
 * **July 1-12, 2019**: Jérôme Héricourt and Clément Nedoncelle visited the Kiel Institute. 
 
