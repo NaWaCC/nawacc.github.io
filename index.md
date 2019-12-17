@@ -41,7 +41,7 @@ In three scientific work-packages, this project will investigate the impact of i
 **Participants**: 
 * [Pr. Dr. Giovanni Facchini](http://giovannifacchini.wixsite.com/scientist-site) -- University of Nottingham
 * [Dr. Olivier Godart](https://www.ifw-members.ifw-kiel.de/~olivier_godart_ifw_kiel_de) -- Kiel IfW
-* [Dr. Léa Marchal](http://leamarchal.fr) -- Bielefeld University & Kiel IfW
+* [Dr. Léa Marchal](http://leamarchal.fr) -- Bielefeld University
 * [Dr. Max Steinhardt](https://sites.google.com/site/maxfriedrichsteinhardt/) -- John F. Kennedy Institute for North American Studies and the FU Berlin
 * [Pr. Dr. Gerald Willmann](http://willmann.com/~gerald/) -- Bielefeld University & Kiel IfW
 
