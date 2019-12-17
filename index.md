@@ -56,14 +56,14 @@ Léa Marchal and Clément Nedoncelle. (2019) Immigrants, Occupations and Firm Ex
 
 ### Upcoming events
 
-* none for now !
+* The NaWaCC project organizes an invited session on migration economics at the AFSE 2020 in Lille. [Call for papers](https://www.afse.fr/global/gene/link.php?news_link=2019180051_call-for-papers-afse-2020-1.pdf&fg=1). 
 
 
 ### Past events
 
 * **September, 2019**: Giulia Sabbadini presented a paper co-authored with Léa Marchal and titled "Import competition, firms' growth and immigrant workers" at the ETSG 2019 in Bern. 
 
-* **July 1-12, 2019**: Jérôme Héricourt and Clément Nedoncelle visited the Kiel Institute. 
+* **July 1-12, 2019**: Amandine Aubry, Jérôme Héricourt and Clément Nedoncelle visited the Kiel Institute. 
 
 * **May 21-23, 2019**: Léa Marchal visited Lille University & LEM-CNRS. 
 
