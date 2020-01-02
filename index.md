@@ -69,11 +69,9 @@ Léa Marchal and Giulia Sabbadini. Import Competition, Firms’ Performance and 
 
 * **May 21-23, 2019**: Léa Marchal visited Lille University & LEM-CNRS. 
 
-* **December 13-14, 2018**: Miguel Cardoso from Brock University presented a paper titled "Accounting for Foreign-born Employees in a Firm's Decision to Export" at the Kiel-Aarhus workshop. Léa Marchal also presented a paper titled "When Immigrants Meet Exporters: Reassessing the Immigrant Wage Gap using French Employer-Employee Data". 
+* **December 13-14, 2018**: Miguel Cardoso from Brock University presented a paper titled "Accounting for Foreign-born Employees in a Firm's Decision to Export" at the Kiel-Aarhus workshop. 
 
 * **December 5-11, 2018**: Giulia Sabbadini from the Graduate Institute of International and Development Studies (IHEID) visited the Kiel IfW. 
-
-* **October 16-November 30, 2018**: Léa Marchal visited the French Institute for Demographic Studies (INED) and presented a paper titled "When Immigrants Meet Exporters: Reassessing the Immigrant Wage Gap using French Employer-Employee Data". 
 
 * **October 11-12, 2018**: Léa Marchal presented at the QICSS International Conference 2018 on *Immigration's Impact, Immigrant's outcomes: New Results Using Business and Social Data* a paper titled "Immigrants and firm export performance across destinations".  
 
