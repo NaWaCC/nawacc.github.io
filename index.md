@@ -69,7 +69,7 @@ Léa Marchal and Giulia Sabbadini. Import Competition, Firms’ Performance and 
 
 ### Past events
 
-* **September, 2019**: Giulia Sabbadini presented a paper co-authored with Léa Marchal and titled "Import competition, firms' growth and immigrant workers" at the ETSG 2019 in Bern. 
+* **September 12-14, 2019**: Giulia Sabbadini presented a paper co-authored with Léa Marchal and titled "Import competition, firms' growth and immigrant workers" at the ETSG 2019 in Bern. 
 
 * **July 1-12, 2019**: Amandine Aubry, Jérôme Héricourt and Clément Nedoncelle visited the Kiel Institute. 
 
