@@ -48,7 +48,7 @@ In three scientific work-packages, this project will investigate the impact of i
 
 ### Other project participants: 
 * [Giulia Sabbadini](https://graduateinstitute.academia.edu/GiuliaSabbadini/) (PhD student) -- Graduate Institute of International and Development Studies
-* Martín Valdez Quintero (Research assistant) -- Bielefeld University
+* Martín Valdez Quintero (Research assistant helping project members on a meta-analysis) -- Bielefeld University
 
 
 
