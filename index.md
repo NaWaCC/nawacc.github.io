@@ -69,6 +69,14 @@ Léa Marchal and Giulia Sabbadini. Import Competition, Firms’ Performance and 
 
 ### Past events
 
+* **February 18, 2020**: Léa Marchal presented a paper co-authored with Giulia Sabbadini and titled "Import competition, firms' growth and immigrant workers" at the ERMEES Seminar in Strasbourg. 
+
+* **February, 2020**: Giulia Sabbadini presented a paper co-authored with Léa Marchal and titled "Import competition, firms' growth and immigrant workers" at the GSEM-IHEID PhD Day in Geneva. 
+
+* **January 27, 2020**: Léa Marchal presented a paper co-authored with Giulia Sabbadini and titled "Import competition, firms' growth and immigrant workers" at the RITM Economics Lunch Seminar in Paris Sud. 
+
+* **January 29, 2020**: Giulia Sabbadini presented a paper co-authored with Léa Marchal and titled "Import competition, firms' growth and immigrant workers" at a research workshop on Challenges to the Global Trading System in Villars-sur-Ollon, Switzerland. 
+
 * **September 12-14, 2019**: Giulia Sabbadini presented a paper co-authored with Léa Marchal and titled "Import competition, firms' growth and immigrant workers" at the ETSG 2019 in Bern. 
 
 * **July 1-12, 2019**: Amandine Aubry, Jérôme Héricourt and Clément Nedoncelle visited the Kiel Institute. 
