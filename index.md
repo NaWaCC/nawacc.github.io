@@ -93,7 +93,7 @@ Léa Marchal and Giulia Sabbadini. Import Competition, Firms’ Performance and 
 
 * **September 21, 2018**: Ding Xuan Ng from Johns Hopkins University presented a paper titled "Technological Unemployment and Occupational Mobility" at the Kiel IfW.
 
-* **September 3-7, 2018**: Jérôme Héricourt & Clément Nedoncelle visited the Kiel IfW. Jérôme Héricourt presented a paper titled "International Transport costs: New Findings from modeling additive costs".
+* **September 3-7, 2018**: Jérôme Héricourt & Clément Nedoncelle visited the Kiel IfW. Jérôme Héricourt presented a paper titled "International Transport costs: New Findings from modeling additive costs" co-authored with Guillaume Daudin and Lise Patureau.
 
 * **July 8-14, 2018**: Gianluca Orefice visited the University of California, Davis. 
 
