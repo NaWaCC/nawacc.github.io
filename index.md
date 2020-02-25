@@ -59,7 +59,9 @@ Léa Marchal and Clément Nedoncelle. (2019) Immigrants, Occupations and Firm Ex
 Léa Marchal and Giulia Sabbadini. Import Competition, Firms’ Performance and Immigrant Workers. [Working paper](https://leamarchal.fr/wp-content/uploads/2019/11/Sabbadini_Marchal_Mimeo2019.pdf).
 
 
+
 ## **Events**
+
 
 
 ### Upcoming events
@@ -73,9 +75,9 @@ Léa Marchal and Giulia Sabbadini. Import Competition, Firms’ Performance and 
 
 * **February, 2020**: Giulia Sabbadini presented a paper co-authored with Léa Marchal and titled "Import competition, firms' growth and immigrant workers" at the GSEM-IHEID PhD Day in Geneva. 
 
-* **January 27, 2020**: Léa Marchal presented a paper co-authored with Giulia Sabbadini and titled "Import competition, firms' growth and immigrant workers" at the RITM Economics Lunch Seminar in Paris Sud. 
-
 * **January 29, 2020**: Giulia Sabbadini presented a paper co-authored with Léa Marchal and titled "Import competition, firms' growth and immigrant workers" at a research workshop on Challenges to the Global Trading System in Villars-sur-Ollon, Switzerland. 
+
+* **January 27, 2020**: Léa Marchal presented a paper co-authored with Giulia Sabbadini and titled "Import competition, firms' growth and immigrant workers" at the RITM Economics Lunch Seminar in Paris Sud. 
 
 * **September 12-14, 2019**: Giulia Sabbadini presented a paper co-authored with Léa Marchal and titled "Import competition, firms' growth and immigrant workers" at the ETSG 2019 in Bern. 
 
