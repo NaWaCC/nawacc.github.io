@@ -31,7 +31,7 @@ In three scientific work-packages, this project will investigate the impact of i
 * [Dr. Amandine Aubry](https://www.amandine-aubry.eu/) -- Lille University & LEM-CNRS
 * [Pr. Dr. Jérôme Héricourt](https://sites.google.com/site/jpcdhericourt/) -- Lille University & LEM-CNRS
 * [Dr. Clément Nedoncelle](http://www.clementnedoncelle.eu/) -- AgroParisTech-INRA
-* [Dr. Gianluca Orefice](https://sites.google.com/site/oreficegianluca/home) -- CEPII
+* [Pr. Gianluca Orefice](https://sites.google.com/site/oreficegianluca/home) -- University of Paris-Dauphine - PSL
 * [Pr. Dr. Giovanni Peri](http://giovanniperi.ucdavis.edu/) -- University of California, Davis & NBER
 
 
