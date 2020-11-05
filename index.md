@@ -52,11 +52,10 @@ In three scientific work-packages, this project will investigate the impact of i
 
 
 
-
 ## **Publication et working papers**
 Léa Marchal and Clément Nedoncelle. (2019) Immigrants, Occupations and Firm Export Performance. Review of International Economics, 27(3): 1480-1509. [Open access paper](https://onlinelibrary.wiley.com/doi/full/10.1111/roie.12432) & [Online appendix](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Froie.12432&file=roie12432-sup-0001-Appendix.pdf).
 
-Léa Marchal and Giulia Sabbadini. Import Competition, Firms’ Performance and Immigrant Workers. [Working paper](https://leamarchal.fr/wp-content/uploads/2019/11/Sabbadini_Marchal_Mimeo2019.pdf).
+Léa Marchal and Giulia Sabbadini. Import Competition, Firms’ Performance and Immigrant Workers. [Working paper](https://leamarchal.fr/wp-content/uploads/2019/11/Sabbadini_Marchal_Mimeo2019.pdf). 
 
 
 
@@ -66,10 +65,13 @@ Léa Marchal and Giulia Sabbadini. Import Competition, Firms’ Performance and 
 
 ### Upcoming events
 
-* The NaWaCC project organizes an invited session on migration economics at the AFSE 2020 in Lille. [Call for papers](https://www.afse.fr/global/gene/link.php?news_link=2019180051_call-for-papers-afse-2020-1.pdf&fg=1). 
+* The NaWaCC project organizes an invited session on migration economics at the AFSE 2021 in Lille. 
 
+* Giulia Sabbadini will visit Paris 1 University (CES lab) in Spring 2021. 
 
 ### Past events
+
+* **August 24-28, 2020**: Léa Marchal visited the Graduate Institute of International and Development Studies in Geneva. 
 
 * **February 18, 2020**: Léa Marchal presented a paper co-authored with Giulia Sabbadini and titled "Import competition, firms' growth and immigrant workers" at the ERMEES Seminar in Strasbourg. 
 
