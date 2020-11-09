@@ -106,6 +106,6 @@ Léa Marchal and Giulia Sabbadini. Import Competition, Firms’ Performance and 
 
 
 ## **Contact**
-For any question concerning the NaWaCC project, please contact Léa Marchal: lea[.]marchal[at]uni[-]bielefeld[.]de
+For any question concerning the NaWaCC project, please contact Léa Marchal: lea[.]marchal[at]univ[-]paris1[.]fr
 
 
