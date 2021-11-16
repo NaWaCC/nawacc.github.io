@@ -74,7 +74,7 @@ Léa Marchal, Guzmán Ourens, Giulia Sabbadini. When Immigrants Meet Exporters: 
 
 * **Summer 2021**: Giulia Sabbadini visited Pantheon-Sorbonne University (CES). 
 
-* **June 8-10, 2021**: * The NaWaCC project organizes an invited session on migration economics at the AFSE 2021 in Lille. Guests speakers of the NaWaCC project: Léa Marchal & Giovanni Peri 
+* **June 8-10, 2021**: The NaWaCC project organizes an invited session on migration economics at the AFSE 2021 in Lille. Guests speakers of the NaWaCC project: Léa Marchal & Giovanni Peri 
 
 * **August 24-28, 2020**: Léa Marchal visited the Graduate Institute of International and Development Studies in Geneva. 
 
