@@ -29,7 +29,7 @@ In three scientific work-packages, this project will investigate the impact of i
 
 **Participants**: 
 * [Pr. Dr. Jérôme Héricourt](https://sites.google.com/site/jpcdhericourt/) -- Lille University & LEM-CNRS
-* [Dr. Clément Nedoncelle](http://www.clementnedoncelle.eu/) -- AgroParisTech-INRA
+* [Dr. Clément Nedoncelle](https://sites.google.com/view/nedoncelle) -- AgroParisTech-INRA
 * [Pr. Gianluca Orefice](https://sites.google.com/site/oreficegianluca/home) -- University of Paris-Dauphine - PSL
 * [Pr. Dr. Giovanni Peri](http://giovanniperi.ucdavis.edu/) -- University of California, Davis & NBER
 
@@ -48,7 +48,7 @@ In three scientific work-packages, this project will investigate the impact of i
 ### Other project participants: 
 * [Dr. Amandine Aubry](https://www.amandine-aubry.eu/) -- Caen University & CREM
 * Martín Valdez Quintero -- Bielefeld University
-* [Giulia Sabbadini](https://graduateinstitute.academia.edu/GiuliaSabbadini/) -- Graduate Institute of International and Development Studies
+* [Giulia Sabbadini](https://sites.google.com/view/giuliasabbadini) -- Graduate Institute of International and Development Studies
 * Dr. Filippo Santi -- Bielefeld University
 
 
@@ -75,7 +75,7 @@ In three scientific work-packages, this project will investigate the impact of i
 
 * **Summer 2021**: Giulia Sabbadini visited Pantheon-Sorbonne University (CES). 
 
-* **June 8-10, 2021**: The NaWaCC project organizes an invited session on migration economics at the AFSE 2021 in Lille. Guests speakers of the NaWaCC project: Léa Marchal & Giovanni Peri 
+* **June 8-10, 2021**: The NaWaCC project organizes an invited session on migration economics at the AFSE 2021 in Lille. Guests speakers of the NaWaCC project: Léa Marchal & Giovanni Peri <a href="{{ '/assets/data/programme_kick-start_meeting.pdf' }}" target="_blank"><i class="fas fa-file"></i></a>
 
 * **August 24-28, 2020**: Léa Marchal visited the Graduate Institute of International and Development Studies in Geneva. 
 
