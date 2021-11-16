@@ -54,13 +54,14 @@ In three scientific work-packages, this project will investigate the impact of i
 
 
 ## **Publication et working papers**
-Léa Marchal and Clément Nedoncelle. (2019) Immigrants, Occupations and Firm Export Performance. Review of International Economics, 27(3): 1480-1509. [Open access paper](https://onlinelibrary.wiley.com/doi/full/10.1111/roie.12432) & [Online appendix](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Froie.12432&file=roie12432-sup-0001-Appendix.pdf).
 
-Léa Marchal and Giulia Sabbadini. Import Competition, Firms’ Performance and Immigrant Workers. [Working paper](https://leamarchal.fr/wp-content/uploads/2021/03/21007.pdf). 
+* Léa Marchal and Clément Nedoncelle. (2019) Immigrants, Occupations and Firm Export Performance. Review of International Economics, 27(3): 1480-1509. [Open access paper](https://onlinelibrary.wiley.com/doi/full/10.1111/roie.12432) & [Online appendix](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Froie.12432&file=roie12432-sup-0001-Appendix.pdf).
 
-Amandine Aubry, Jérôme Héricourt, Léa Marchal, Clément Nedoncelle. Does Immigration Affect Wages? A Meta-Analysis. [Working paper](https://leamarchal.fr/wp-content/uploads/2021/04/DT2021-04.pdf). 
+* Léa Marchal and Giulia Sabbadini. Import Competition, Firms’ Performance and Immigrant Workers. [Working paper](https://leamarchal.fr/wp-content/uploads/2021/03/21007.pdf). 
 
-Léa Marchal, Guzmán Ourens, Giulia Sabbadini. When Immigrants Meet Exporters: A Reassessment of the Immigrant Wage Gap. [Working paper](https://leamarchal.fr/wp-content/uploads/2021/11/CTEI_WP_When_Immigrants_meet_Exporters.pdf). 
+* Amandine Aubry, Jérôme Héricourt, Léa Marchal, Clément Nedoncelle. Does Immigration Affect Wages? A Meta-Analysis. [Working paper](https://leamarchal.fr/wp-content/uploads/2021/04/DT2021-04.pdf). 
+
+
 
 
 ## **Events**
