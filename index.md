@@ -68,7 +68,7 @@ In three scientific work-packages, this project will investigate the impact of i
 
 ### Upcoming events
 
-* Final meeting of the project partner planned in April 2022.  
+* Final meeting of the project partners planned in April 2022.  
 
 
 ### Past events
