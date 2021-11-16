@@ -75,7 +75,7 @@ In three scientific work-packages, this project will investigate the impact of i
 
 * **Summer 2021**: Giulia Sabbadini visited Pantheon-Sorbonne University (CES). 
 
-* **June 8-10, 2021**: The NaWaCC project organizes an invited session on migration economics at the AFSE 2021 in Lille. Guests speakers of the NaWaCC project: Léa Marchal & Giovanni Peri <a href="{{ '/assets/data/programme_kick-start_meeting.pdf' }}" target="_blank"><i class="fas fa-file"></i></a>
+* **June 8-10, 2021**: The NaWaCC project organizes an invited session on migration economics at the AFSE 2021 in Lille. Guests speakers of the NaWaCC project: Léa Marchal & Giovanni Peri <a href="{{ '/assets/data/AFSE2021_Programme_detaille_final.pdf' }}" target="_blank"><i class="fas fa-file"></i></a>
 
 * **August 24-28, 2020**: Léa Marchal visited the Graduate Institute of International and Development Studies in Geneva. 
 
