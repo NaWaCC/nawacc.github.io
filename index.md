@@ -1,6 +1,6 @@
 ## **The NaWaCC project**
 
-The NaWaCC project is a three-year project funded by the French and the German research agencies (the [ANR](http://www.agence-nationale-recherche.fr/en/) and the [DFG](http://www.dfg.de/en/index.jsp)). Its budget amounts to 385,978€. The project started in May 2018 and will end in October 2021. 
+The NaWaCC project is a three-year project funded by the French and the German research agencies (the [ANR](http://www.agence-nationale-recherche.fr/en/) and the [DFG](http://www.dfg.de/en/index.jsp)). Its budget amounts to 385,978€. The project started in May 2018 and will end in April 2022. 
 
 
 ### Summary
@@ -28,7 +28,6 @@ In three scientific work-packages, this project will investigate the impact of i
 **Main partner organisation**: [Lille University](http://www.univ-lille1.fr/home/) & [LEM-CNRS](https://lem.univ-lille.fr/)
 
 **Participants**: 
-* [Dr. Amandine Aubry](https://www.amandine-aubry.eu/) -- Lille University & LEM-CNRS
 * [Pr. Dr. Jérôme Héricourt](https://sites.google.com/site/jpcdhericourt/) -- Lille University & LEM-CNRS
 * [Dr. Clément Nedoncelle](http://www.clementnedoncelle.eu/) -- AgroParisTech-INRA
 * [Pr. Gianluca Orefice](https://sites.google.com/site/oreficegianluca/home) -- University of Paris-Dauphine - PSL
@@ -47,8 +46,10 @@ In three scientific work-packages, this project will investigate the impact of i
 
 
 ### Other project participants: 
-* [Giulia Sabbadini](https://graduateinstitute.academia.edu/GiuliaSabbadini/) (PhD student) -- Graduate Institute of International and Development Studies
-* Martín Valdez Quintero (Research assistant helping project members on a meta-analysis) -- Bielefeld University
+* [Dr. Amandine Aubry](https://www.amandine-aubry.eu/) -- Caen University & CREM
+* Martín Valdez Quintero -- Bielefeld University
+* [Giulia Sabbadini](https://graduateinstitute.academia.edu/GiuliaSabbadini/) -- Graduate Institute of International and Development Studies
+* Dr. Filippo Santi -- Bielefeld University
 
 
 
@@ -59,16 +60,21 @@ Léa Marchal and Giulia Sabbadini. Import Competition, Firms’ Performance and 
 
 Amandine Aubry, Jérôme Héricourt, Léa Marchal, Clément Nedoncelle. Does Immigration Affect Wages? A Meta-Analysis. [Working paper](https://leamarchal.fr/wp-content/uploads/2021/04/DT2021-04.pdf). 
 
+Léa Marchal, Guzmán Ourens, Giulia Sabbadini. When Immigrants Meet Exporters: A Reassessment of the Immigrant Wage Gap. [Working paper](https://leamarchal.fr/wp-content/uploads/2021/11/CTEI_WP_When_Immigrants_meet_Exporters.pdf). 
+
 
 ## **Events**
 
 ### Upcoming events
 
-* The NaWaCC project organizes an invited session on migration economics at the AFSE 2021 in Lille. 
+* Final meeting of the project partner planned in April 2022.  
 
-* Giulia Sabbadini will visit Pantheon-Sorbonne University (CES lab) in Spring 2021. 
 
 ### Past events
+
+* **Summer 2021**: Giulia Sabbadini visited Pantheon-Sorbonne University (CES). 
+
+* **June 8-10, 2021**: * The NaWaCC project organizes an invited session on migration economics at the AFSE 2021 in Lille. Guests speakers of the NaWaCC project: Léa Marchal & Giovanni Peri 
 
 * **August 24-28, 2020**: Léa Marchal visited the Graduate Institute of International and Development Studies in Geneva. 
 
